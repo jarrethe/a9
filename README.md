@@ -24,6 +24,5 @@ if authorized == "0":
 
 UML diagram:
 
-
-![image](https://github.com/jarrethe/a9/assets/103973092/12d6f097-3019-43ab-af53-f65f35f32fbf)
+<img width="598" alt="Screenshot 2023-07-31 at 7 11 17 PM" src="https://github.com/jarrethe/a9/assets/103973092/7be03a93-47d6-4840-8c4f-5c425fba1cd3">
 
