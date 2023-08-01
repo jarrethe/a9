@@ -25,5 +25,5 @@ if authorized == "0":
 UML diagram:
 
 
-![UML diagram](https://github.com/jarrethe/a9/assets/103973092/12d6f097-3019-43ab-af53-f65f35f32fbf)
+![image](https://github.com/jarrethe/a9/assets/103973092/12d6f097-3019-43ab-af53-f65f35f32fbf)
 
